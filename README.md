@@ -8,6 +8,9 @@
 1. 热爱技术，喜欢分享
 2. 工作时间3年+（当然如果能力很强，这一点就可以忽略了）
 
+![image](https://github.com/AndroidOne-io/androidWeekly/raw/master/images/group.png)
+
+
 
 这下是微信公众号。我会将各大群中讨论的干货，以文章的形式分享到公众号，也会邀请国内知名开发者来分享一部分内容。（其实我自己也瞎写）
 
