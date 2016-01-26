@@ -23,4 +23,5 @@
 Android开发周报直达链接
 
 [1. Android开发周报2016年第1期：Android将使用OpenJDK、React Native详解](https://github.com/AndroidOne-io/androidWeekly/blob/master/2016年第1期.md)
+
 [2. Android开发周报2016年第2期：Google I/O大会日期确定、Bitmap内存详解](https://github.com/AndroidOne-io/androidWeekly/blob/master/2016年第2期.md)
